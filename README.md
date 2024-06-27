@@ -51,6 +51,3 @@ For further reading and understanding of the concepts used in this project, refe
 
 Contributions to enhance the project and extend its functionalities are welcome. Please fork the repository, create a new branch, commit your changes, and open a pull request.
 
----
-
-Feel free to adjust the sections, add more details, or include specific instructions based on your implementation and preferences. This template provides a structured approach to presenting your project on GitHub.
